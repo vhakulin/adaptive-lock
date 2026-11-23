@@ -1,0 +1,6 @@
+/bench_hashtable
+/bench_synthetic
+/bench_single_thread
+/test_asan
+/test_tsan
+/test_correctness
